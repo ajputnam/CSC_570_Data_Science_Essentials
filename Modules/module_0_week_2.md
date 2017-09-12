@@ -40,7 +40,7 @@ Independence is pretty rigorously defined.   Simply though, if A and B are indep
 
 Lets put this all together in an example:
 
- | bedrooms | basement | price
+num | bedrooms | basement | price
 --- | --- | --- | ---
 house1 | 3 | 1 | 200k
 house2 | 2 | 1 | 150k

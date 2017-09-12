@@ -4,7 +4,8 @@ This lab is primarily housekeeping for future labs.   We're going to be setting 
 In this class, I'll accept code created in either R or python.   Both are excellent data science toolkits.   I will be working in, and using, python examples and the very powerful iPython notebook.   
 
 
-Python:
+Python
+
 If you'd like to use python as well, please install Anaconda (link).  
 
 If you're new to python, you may want to work through a few examples.  There are many different introductions to python out there on the web.   You're welcome to use any of them.  Some of my favorites are:
